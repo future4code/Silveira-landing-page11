@@ -1,0 +1,97 @@
+body{
+    background-color:  rgb(255, 145, 77);
+   color: white;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 1100px;
+    margin: 0 auto;
+    scroll-behavior: 110vw;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0 auto;
+}
+
+.titulo{
+    flex-direction:column;
+    margin-top: 0px;
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
+    color: white;
+    margin-top: 0%;
+
+}
+li #conta{
+    border: 20px solid white;
+}
+
+
+h1{
+    font-weight: 200;
+    font-family:cursive;
+    margin-top: 0%;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 150px;
+    background-image:-moz-element()
+}
+
+h2{
+    font-size: 56px;
+    line-height: 10px;
+    
+}
+span{
+    color: rgb(97, 64, 64);
+}
+
+li:hover{
+  color:rgb(97, 64, 64);
+}
+
+img{
+    
+    margin-top: 1px;
+    width: 270px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+form [type="submit"]{
+    height: 50px;
+    width: 30%;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    
+}
+input{
+    margin-top: 20px;
+    height: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    border: none;
+    
+}
+#conta{
+    border: 5px solid rgb(21, 21, 21);
+    border-radius: 20px;
+    background-color: black;
+    
+}
+#predio{
+    display: flex;
+    margin-top: 30%;
+    width: 1000px;
+}
