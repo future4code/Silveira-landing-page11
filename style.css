@@ -4,7 +4,7 @@ body{
    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     max-width: 1100px;
     margin: 0 auto;
-    scroll-behavior: 110vw;
+
 }
 
 header{
@@ -12,7 +12,7 @@ header{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    margin-top: 0 auto;
+    margin-top: -50px;
 }
 
 .titulo{
@@ -24,7 +24,7 @@ li{
     display: inline-block;
     margin: 20px;
     color: white;
-    margin-top: 0%;
+    margin-top: -55%;
 
 }
 li #conta{
