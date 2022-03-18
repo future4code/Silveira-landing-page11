@@ -2,7 +2,8 @@ body{
     background-color:  rgb(255, 145, 77);
    color: white;
    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    max-width: 1100px;
+    width: 75% ;
+    height: 150vh;
     margin: 0 auto;
 
 }
@@ -13,6 +14,8 @@ header{
     justify-content: space-between;
     align-items: center;
     margin-top: -50px;
+    
+
 }
 
 .titulo{
@@ -24,7 +27,7 @@ li{
     display: inline-block;
     margin: 20px;
     color: white;
-    margin-top: -55%;
+    margin-top: -90%;
 
 }
 li #conta{
@@ -41,13 +44,12 @@ h1{
 main{
     display: flex;
     flex-direction: row;
-    margin-top: 150px;
-    background-image:-moz-element()
+   
 }
 
 h2{
     font-size: 56px;
-    line-height: 10px;
+    line-height: 75%;
     
 }
 span{
@@ -57,41 +59,65 @@ span{
 li:hover{
   color:rgb(97, 64, 64);
 }
+    
+    
 
-img{
-    
-    margin-top: 1px;
-    width: 270px;
-}
-form{
-    display: flex;
-    flex-direction: column;
-    width: 70%;
-}
-form [type="submit"]{
-    height: 50px;
-    width: 30%;
-    background-color: black;
-    color: white;
-    font-weight: bold;
-    
-}
-input{
-    margin-top: 20px;
-    height: 20px;
-    padding: 20px;
-    border-radius: 20px;
-    border: none;
-    
-}
 #conta{
     border: 5px solid rgb(21, 21, 21);
     border-radius: 20px;
     background-color: black;
     
 }
-#predio{
+img{
+width: 55%;
+   
+}
+
+p{
     display: flex;
-    margin-top: 30%;
-    width: 1000px;
+    justify-content:left
+}
+
+.foto-mulher{
+display: flex;
+flex-direction: row;
+margin-left: 50%;
+width: 60%;
+}
+.p1{
+    font-size: larger;
+    line-height: 100%;
+}
+.somos{
+    width: 30%;
+    margin-top: -35%;
+}
+.paragrafo-mulher{
+    width: 40%;
+    font-size:larger;
+}
+
+footer{
+    background-color:  rgb(255, 145, 77);
+    Position: fixed;
+     bottom: 0;
+     height: 5%;
+     width: 100vw;
+
+}
+div{
+    background-color:rgb(255, 145, 77);
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+}
+div:hover{
+color: rgb(97, 64, 64);
+
+}
+
+aside{
+    display: flex;
+    flex-direction: column;
+    color:black
 }
