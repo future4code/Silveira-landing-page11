@@ -3,12 +3,12 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-website">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-website">Website</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
   
 
 
-<p align="center"><img src='img/print.png' alt='print da imagem'></p>
+<p align="center"><img src='img/print-home.png' alt='print da landing page'></p>
 
 
 
