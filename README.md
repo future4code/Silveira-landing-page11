@@ -26,7 +26,7 @@ F4Bank, uma Landing-Page fictícia criada para o curso Web-Fullstack da Labenu.
 
 ## 📲 Website
 
-Link para visualização no surge: [polite-boat.surge.sh](surge)
+Link para visualização no surge: [fanatical-grandmother.surge.sh](surge)
 
 ## 🚀 Como executar
 
@@ -36,7 +36,7 @@ $ git clone https://github.com/future4code/Silveira-landing-page11.git
 ```
 Acessar o repertório:
 ```bash
-$ cd polite-boat.surge.sh
+$ cd fanatical-grandmother.surge.sh
 
 ```
 ****
