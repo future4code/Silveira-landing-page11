@@ -26,7 +26,7 @@ F4Bank, uma Landing-Page fictícia criada para o curso Web-Fullstack da Labenu.
 
 ## 📲 Website
 
-Link para visualização no surge: (<a href:"https://fanatical-grandmother.surge.sh/" target:"_blank">fanatical-grandmother.surge.sh</a>)
+Link para visualização no surge: (https://fanatical-grandmother.surge.sh/) (surge)
 
 ## 🚀 Como executar
 
