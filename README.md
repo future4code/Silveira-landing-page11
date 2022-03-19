@@ -8,7 +8,7 @@
   
 
 
-<p align="center"><img src='./img/print-home.png' alt='print da landing page'></p>
+<p align="center"><img src='./projeto-f4bank/img/print-home.png' alt='print da landing page'></p>
 
 
 
